@@ -1,0 +1,24 @@
+.img{
+    width: 47%;
+    height: 400px;
+    position: absolute;
+}
+
+.para{
+    width: 47%;
+    height: 400px;
+    position: absolute;
+    right: 0px;
+}
+
+.vid{
+    position: relative;
+    top: 450px;
+    width: 95vw;
+}
+
+.msg{
+    position: relative;
+    top: 500px;
+    left: 40%;
+}

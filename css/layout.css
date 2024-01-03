@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.container2{
+    display: flex;
+}
+
+.first{
+    flex: 2;
+}
+
+.second{
+    flex: 5;
+}
+
+.third{
+    flex: 1;
+}
